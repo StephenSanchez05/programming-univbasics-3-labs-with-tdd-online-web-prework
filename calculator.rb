@@ -1,2 +1,2 @@
 
-def sum()
+def sum(first_number, second_number)
