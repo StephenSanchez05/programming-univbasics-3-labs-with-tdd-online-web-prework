@@ -1,2 +1,2 @@
 
-def sum =
+def sum()
